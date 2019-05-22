@@ -1,6 +1,6 @@
 body {
 	/*background: #eef7ef;*/
-	background: #465C69;
+/*	background: #465C69;*/
 	font-family: roboto mono, open sans, helvetica;
 	/*color: white;*/
 	margin: 0;
@@ -96,7 +96,7 @@ nav ul li a:hover {
 
 .attext p {
 	margin: 5px;
-	color: #465C69;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-size: 80px;
 	font-weight: bold;
@@ -117,7 +117,7 @@ nav ul li a:hover {
 	grid-row: 2/3;
 	/*background: #5b9279;*/
 	padding: 2em;
-	background: #465C69;
+	background: #ffffff;
 }
 
 .cheesy {
